@@ -1,6 +1,6 @@
-console.log("hello world");
+console.log("hello");
 
-console.log("git training");
+console.log("git");
 
 console.log("never gonna give you up");
 console.log("1 2 3 4");
